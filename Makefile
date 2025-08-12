@@ -12,3 +12,4 @@ test:
 ci: start lint test
 
 # Função principal: Rodar uma verificação completa do projeto antes de um commit, push ou deploy.
+
